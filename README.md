@@ -1,1 +1,1 @@
-# shag-coin
+# shag
