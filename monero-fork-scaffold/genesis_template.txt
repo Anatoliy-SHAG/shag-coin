@@ -1,0 +1,8 @@
+# Genesis template for SHAG
+coin_name: SHAG
+ticker: SHAG
+premine_amount: 1000000
+max_supply: 1000001000000
+timestamp: 2025-08-23T00:00:00Z
+nonce: <to be found by mining genesis>
+miner_address: <your premine address>
